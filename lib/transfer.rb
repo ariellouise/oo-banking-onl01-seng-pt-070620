@@ -8,7 +8,7 @@ class Transfer
     @status = "pending" #part of attr accs. needs to be initialized 
   end 
   
-  def execute_transaction
+  
     
   
 end
